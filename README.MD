@@ -146,4 +146,4 @@ terraform destroy   to stop the EC2 machine
 
 
 
-due large size of the of the folder I am commited every things only pushes important file 
+> ⚠️ **Important:** Due to the large size of the folder, I have committed only the essential/important files. Please review or request additional files if needed.
