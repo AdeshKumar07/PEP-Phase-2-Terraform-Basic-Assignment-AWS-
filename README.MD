@@ -20,8 +20,10 @@ Created `main.tf` with HCL code for AWS infrastructure
   step1- Go on IAM user and click on that 
 
   step2- & click on Generate Key 
-    ![alt text](AccessKey.png)
-  and proceed with next step 
+          ![alt text](credentail.png) 
+
+          
+          ![alt text](AccessKey.png)
 
 
 - Linked credentials with terminal
