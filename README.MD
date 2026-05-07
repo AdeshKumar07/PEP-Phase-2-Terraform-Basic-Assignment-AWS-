@@ -22,6 +22,7 @@ Created `main.tf` with HCL code for AWS infrastructure
   step2- & click on Generate Key 
           ![alt text](credentail.png) 
 
+          AccessKey is Created 
           
           ![alt text](AccessKey.png)
 
