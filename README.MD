@@ -15,8 +15,31 @@ Created `main.tf` with HCL code for AWS infrastructure
 - Created IAM user
 ![alt text](image.png)
 
-- Generated access credentials
+- For Generated access credentials
+  Login as root user 
+  step1- Go on IAM user and click on that 
+
+  ![alt text](IMAaccount.png)
+  step2- & click on Generate Key 
+  and choose command Line 
+  
+  ![alt text](image.png)
+
+  and proceed with next step 
+
 - Linked credentials with terminal
+
+
+    step1 - In terminal run command : aws configure
+
+    step2 - ![alt text](credentail.png)
+            
+    step4 - AWS Access Key ID: (paste)
+            AWS Secret Access Key: (paste)
+            Default region: ap-south-1
+            Default output format: json
+
+    step5 - fill these things 
 
 ### Step 3️⃣ - Initialize Terraform
 ```bash
