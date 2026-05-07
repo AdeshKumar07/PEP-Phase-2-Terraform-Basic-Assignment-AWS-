@@ -19,12 +19,12 @@ Created `main.tf` with HCL code for AWS infrastructure
   Login as root user 
   step1- Go on IAM user and click on that 
 
-  step2- & click on Generate Key 
-          ![alt text](credentail.png) 
+      I)  click on Generate Key 
+              ![alt text](credentail.png) 
 
-          AccessKey is Created 
-          
-          ![alt text](AccessKey.png)
+  step2- AccessKey is created 
+    ![alt text](AccessKey.png)
+  
 
 
 - Linked credentials with terminal
@@ -68,7 +68,9 @@ Outputs:
 instance_public_ip = "13.206.237.146"
 & also verfiy in the instance_proof.png 
 
+Proof of Created EC2 
 
+![alt text](instance_proof.png)
 
 
 step5 to aviod cost 
