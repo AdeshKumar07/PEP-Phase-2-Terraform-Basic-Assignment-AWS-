@@ -13,26 +13,21 @@ Created `main.tf` with HCL code for AWS infrastructure
 
 ### Step 2️⃣ - AWS Credentials Setup
 - Created IAM user
-![alt text](image.png)
+![alt text](IMAUser.png)
 
 - For Generated access credentials
   Login as root user 
   step1- Go on IAM user and click on that 
 
-  ![alt text](IMAaccount.png)
   step2- & click on Generate Key 
-  and choose command Line 
-  
-  ![alt text](image.png)
-
+    ![alt text](AccessKey.png)
   and proceed with next step 
 
+
 - Linked credentials with terminal
-
-
     step1 - In terminal run command : aws configure
 
-    step2 - ![alt text](credentail.png)
+    step2 - ![alt text](connectingwithterminal.png)
             
     step4 - AWS Access Key ID: (paste)
             AWS Secret Access Key: (paste)
