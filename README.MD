@@ -19,7 +19,7 @@ Created `main.tf` with HCL code for AWS infrastructure
   Login as root user 
   step1- Go on IAM user and click on that 
 
-      I)  click on Generate Key 
+  step1- click on Generate Key 
               ![alt text](credentail.png) 
 
   step2- AccessKey is created 
